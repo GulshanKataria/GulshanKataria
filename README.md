@@ -7,7 +7,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://gulshankataria.github.io/GulshanKataria/" target="_blank"><img src="assets/img/sample.png">
+    <a href="https://gulshankataria.github.io/GulshanKataria/" target="_blank"><img src="assets/img/sample.PNG">
   </a>
   </kbd>
 </p>
