@@ -28,15 +28,13 @@
 
 
 ## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
+✔️ Home \
+✔️ About \
 ✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
+✔️ Services \
+✔️ Projects \
+✔️ Contact me\
 ✔️ Resume
-
-To view a live example, **[click here]("https://gulshankataria.github.io/GulshanKataria/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
@@ -59,4 +57,4 @@ To view a live example, **[click here]("https://gulshankataria.github.io/Gulshan
 
 #### Step 3
 
-- 🔃 Create a new pull request.
+-  Create a new pull request.
