@@ -1,5 +1,5 @@
 # Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software and Frontend Developers!
+>Welcome to my Personal Portfolio!
 
 > https://gulshankataria.github.io/GulshanKataria/
 
