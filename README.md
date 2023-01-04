@@ -1,6 +1,6 @@
-                                                      **     Hello my dear Frinds!! ⚡️ **
-                                                          I love making connections !! 
-                                                      Connect with me : ![image](https://user-images.githubusercontent.com/66901234/210588895-9e23bcb6-4f07-4d03-92ae-8b9b4d04ba4b.png) 
+                                                              Hello my dear Frinds!! ⚡️ 
+                                                          
+                                                      
 
 >                                                         
 >
