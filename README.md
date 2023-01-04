@@ -5,7 +5,7 @@
 >                                                         
 >
 
-> h                                               ttps://gulshankataria.github.io/GulshanKataria/
+>                                                https://gulshankataria.github.io/GulshanKataria/
 
 
 ### Website Preview
