@@ -8,7 +8,7 @@
 >                                                https://gulshankataria.github.io/GulshanKataria/
 
 
-### Website Preview
+### My Website Preview
 <p align="center"> 
   <kbd>
     <a href="https://gulshankataria.github.io/GulshanKataria/" target="_blank"><img src="assets/img/sample.PNG">
@@ -45,20 +45,4 @@
 * [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
 * [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
 
-## Contributing 💡
-#### Step 1
 
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
--  Create a new pull request.
