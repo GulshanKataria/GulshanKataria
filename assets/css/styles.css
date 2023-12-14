@@ -255,10 +255,11 @@ ul {
 .home__profession{
     font-size: var(--small-font-size);
     color:var(--first-color-dark);
-    margin-bottom: var(--mb-5);
+    margin-bottom: var(--mb-2);
 }
 
 .home__social{
+
     margin-bottom: 5rem;
 }
 
@@ -291,6 +292,18 @@ ul {
     transition: .3s;
 }
 
+.button1{
+    display: inline-block;
+    background-color: var(--first-color);
+    color:var(--first-color-lighten);
+    padding: 1rem 2rem;
+    font-weight: var(--font-semi-bold);
+    border-radius: .5rem;
+    transition: .4s;
+
+
+}
+
 .button:hover{
     background-color: var(--first-color-dark);
 }
@@ -298,6 +311,14 @@ ul {
 .button__light{
     background-color: var(--first-color-lighten);
     color:var(--first-color);
+}
+
+.button__dark{
+    float:right;
+   
+}
+.resume{
+
 }
 
 .button__light:hover{
